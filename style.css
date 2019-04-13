@@ -1,0 +1,20 @@
+div.outer{
+  width: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: arial;
+}
+
+div.banner{
+  width: 100%;
+  text-align: center;
+}
+
+img.logo{
+  width: 25%
+}
+
+h1.title{
+  font-size: 100px;
+}
