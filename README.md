@@ -1,2 +1,3 @@
 # Vyx
-The Vyx Site with ISO and Website
+The Vyx Site
+Go to vyx.5lt.dev for the ISO
