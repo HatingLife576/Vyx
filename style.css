@@ -23,6 +23,6 @@ p{
   font-size: 30px;
 }
 
-button:hover{
+button.dyl:hover{
   background-color:#212b3a;
 }
