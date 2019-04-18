@@ -18,6 +18,11 @@ img.logo{
 h1.title{
   font-size: 100px;
 }
+
 p{
   font-size: 30px;
+}
+
+button:hover{
+  background-color:#212b3a;
 }
